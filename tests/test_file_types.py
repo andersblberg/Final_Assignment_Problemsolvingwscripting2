@@ -1,4 +1,3 @@
-# tests/test_file_types.py
 import pytest
 import sys
 import os

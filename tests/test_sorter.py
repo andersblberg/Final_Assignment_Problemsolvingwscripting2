@@ -1,4 +1,3 @@
-# tests/test_sorter.py
 import os
 import sys
 import shutil
