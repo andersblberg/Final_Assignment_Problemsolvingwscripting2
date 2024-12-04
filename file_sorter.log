@@ -1,0 +1,43 @@
+2024-12-03 22:19:35,444:ERROR:Directory /path/to/your/directory does not exist.
+2024-12-03 22:23:08,044:INFO:No category found for audio_files.py. Skipping.
+2024-12-03 22:23:08,044:INFO:No category found for image_files.py. Skipping.
+2024-12-03 22:23:08,044:INFO:No category found for text_files.py. Skipping.
+2024-12-03 22:23:08,044:INFO:No category found for __init__.py. Skipping.
+2024-12-03 22:30:14,524:INFO:No category found for audio_files.py. Skipping.
+2024-12-03 22:30:14,524:INFO:No category found for image_files.py. Skipping.
+2024-12-03 22:30:14,525:INFO:No category found for text_files.py. Skipping.
+2024-12-03 22:30:14,531:INFO:No category found for __init__.py. Skipping.
+2024-12-03 22:31:23,397:INFO:No category found for audio_files.py. Skipping.
+2024-12-03 22:31:23,397:INFO:No category found for image_files.py. Skipping.
+2024-12-03 22:31:23,397:INFO:No category found for text_files.py. Skipping.
+2024-12-03 22:31:23,397:INFO:No category found for __init__.py. Skipping.
+2024-12-03 22:31:58,438:INFO:No category found for audio_files.py. Skipping.
+2024-12-03 22:31:58,438:INFO:No category found for image_files.py. Skipping.
+2024-12-03 22:31:58,438:INFO:No category found for text_files.py. Skipping.
+2024-12-03 22:31:58,439:INFO:No category found for __init__.py. Skipping.
+2024-12-03 23:10:56,732:INFO:No category found for audio_files.py. Skipping.
+2024-12-03 23:10:56,732:INFO:No category found for image_files.py. Skipping.
+2024-12-03 23:10:56,732:INFO:No category found for text_files.py. Skipping.
+2024-12-03 23:10:56,732:INFO:No category found for __init__.py. Skipping.
+2024-12-04 00:35:20,082:INFO:No category found for audio_files.py. Skipping.
+2024-12-04 00:35:20,082:INFO:No category found for image_files.py. Skipping.
+2024-12-04 00:35:20,082:INFO:No category found for text_files.py. Skipping.
+2024-12-04 00:35:20,082:INFO:No category found for __init__.py. Skipping.
+2024-12-04 00:44:27,028:INFO:No category found for audio_files.py. Skipping.
+2024-12-04 00:44:27,029:INFO:No category found for image_files.py. Skipping.
+2024-12-04 00:44:27,029:INFO:No category found for text_files.py. Skipping.
+2024-12-04 00:44:27,029:INFO:No category found for __init__.py. Skipping.
+2024-12-04 00:50:34,830:ERROR:Directory C:/Users/Blomberg/Desktop/scripting/Final_Assignment_Problemsolvingwscripting2/FileOrganizer/TargetDirectory does not exist.
+2024-12-04 00:50:59,999:ERROR:Directory C:/Users/Blomberg/Desktop/scripting/Final_Assignment_Problemsolvingwscripting2/FileOrganizer/TargetDirectory does not exist.
+2024-12-04 00:52:52,450:INFO:Moved article.pdf to C:/Users/Blomberg/Desktop/scripting/TargetDirectory\Text Files
+2024-12-04 00:52:52,451:INFO:Moved audiofile.mp3 to C:/Users/Blomberg/Desktop/scripting/TargetDirectory\Audio Files
+2024-12-04 00:52:52,451:INFO:Moved image1.jpg to C:/Users/Blomberg/Desktop/scripting/TargetDirectory\Images
+2024-12-04 00:52:52,452:INFO:Moved image2.png to C:/Users/Blomberg/Desktop/scripting/TargetDirectory\Images
+2024-12-04 00:52:52,452:INFO:Moved song.wav to C:/Users/Blomberg/Desktop/scripting/TargetDirectory\Audio Files
+2024-12-04 00:52:52,452:INFO:Moved textfile.txt to C:/Users/Blomberg/Desktop/scripting/TargetDirectory\Text Files
+2024-12-04 01:00:56,705:INFO:Moved article.pdf to C:/Users/Blomberg/Desktop/scripting/TargetDirectory\Text Files
+2024-12-04 01:00:56,706:INFO:Moved audiofile.mp3 to C:/Users/Blomberg/Desktop/scripting/TargetDirectory\Audio Files
+2024-12-04 01:00:56,707:INFO:Moved image1.jpg to C:/Users/Blomberg/Desktop/scripting/TargetDirectory\Images
+2024-12-04 01:00:56,707:INFO:Moved image2.png to C:/Users/Blomberg/Desktop/scripting/TargetDirectory\Images
+2024-12-04 01:00:56,708:INFO:Moved song.wav to C:/Users/Blomberg/Desktop/scripting/TargetDirectory\Audio Files
+2024-12-04 01:00:56,708:INFO:Moved textfile.txt to C:/Users/Blomberg/Desktop/scripting/TargetDirectory\Text Files
