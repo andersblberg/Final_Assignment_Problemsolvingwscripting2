@@ -45,8 +45,8 @@ project/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/file-organizer.git
-   cd file-organizer
+   git clone https://github.com/andersblberg/Final_Assignment_Problemsolvingwscripting2.git
+   cd fileorganizer
    ```
 
 2. **Set Up a Virtual Environment (Optional but Recommended)**
@@ -62,7 +62,7 @@ project/
    pip install -r requirements.txt
    ```
 
-   *Note: If `requirements.txt` is not provided, you can manually install `pytest` if you plan to run tests:*
+   *Note: If you don't want to use `requirements.txt`, you can manually install `pytest` if you plan to run tests:*
 
    ```bash
    pip install pytest
@@ -76,7 +76,7 @@ project/
 
    ```python
    # config.py
-   TARGET_DIRECTORY = 'C:/path/to/your/directory'  # Replace with your actual directory path
+   TARGET_DIRECTORY = '...'  # Replace with your actual directory path
    ```
 
    *Note for Windows Users*: Use forward slashes (`/`) or double backslashes (`\\`) in paths to avoid escape character issues.
